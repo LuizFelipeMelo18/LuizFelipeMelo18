@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F66F7&center=true&vCenter=true&random=false&width=850&lines=Hi!+my+name+is+Luiz+Felipe!👋+;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-melo-dos-anjos/)
+
 Full Stack Developer with ~2 years of experience building scalable systems and interactive web applications. I believe in technology's power to simplify processes and drive real-world impact. 
+
 Experienced in the full software development lifecycle, I bridge resilient back-ends with dynamic front-ends. 
+
 Driven by a culture of clean code, DevOps, and hands-on continuous learning.
 
 <div>
