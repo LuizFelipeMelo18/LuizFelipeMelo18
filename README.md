@@ -1,6 +1,6 @@
 ## Olá, Luiz Felipe Melo
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-melo-dos-anjos-886a771a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-melo-dos-anjos/)
 
 <div>
    <a href="https://github.com/LuizFelipeMelo18">
