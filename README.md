@@ -8,11 +8,6 @@ Experienced in the full software development lifecycle, I bridge resilient back-
 
 Driven by a culture of clean code, DevOps, and hands-on continuous learning.
 
-<div>
-   <a href="https://github.com/LuizFelipeMelo18">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeMelo18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-</div>
 
 <div style="display"><br/>
     <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,3 +16,9 @@ Driven by a culture of clean code, DevOps, and hands-on continuous learning.
     <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img aling="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>
+
+<div>
+   <a href="https://github.com/LuizFelipeMelo18">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeMelo18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+</div>
