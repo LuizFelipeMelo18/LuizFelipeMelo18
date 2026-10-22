@@ -24,8 +24,3 @@ Driven by a culture of clean code, DevOps, and hands-on continuous learning.
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
-
-<div>
-   <a href="https://github.com/LuizFelipeMelo18">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFelipeMelo18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
